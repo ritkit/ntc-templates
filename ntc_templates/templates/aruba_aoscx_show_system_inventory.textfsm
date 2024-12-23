@@ -1,0 +1,10 @@
+value TYPE ()
+value LOC (\S+)
+value PRODUCT_NUM (\S+)
+value DESC ()
+value SERIAL (\S+)
+value HARDWARE_VER (\S+)
+
+Start
+^------
+^${TYPE}

@@ -1,0 +1,28 @@
+chi-08idf1-asw01# sh system inventory
+
+Type                 Location Product          Description                                        Serial           Hardware
+                              Number                                                              Number           Version
+-------------------- -------- ---------------- -------------------------------------------------- ---------------- -----------
+Chassis              1        JL659A           6300M 48-port HPE Smart Rate 1/2.5/5GbE Class 6... SG12345678       3
+Chassis              2        JL659A           6300M 48-port HPE Smart Rate 1/2.5/5GbE Class 6... SG90ABCDEF       4
+Chassis              3        JL659A           6300M 48-port HPE Smart Rate 1/2.5/5GbE Class 6... SG12345678       3
+Power Supply         1/1      JL087A           Aruba X372 54VDC 1050W PS                          CN90ABCDEF       04
+Power Supply         1/2      JL087A           Aruba X372 54VDC 1050W PS                          CN12345678       04
+Power Supply         2/1      JL087A           Aruba X372 54VDC 1050W PS                          CN90ABCDEF       04
+Power Supply         2/2      JL087A           Aruba X372 54VDC 1050W PS                          CN12345678       04
+Power Supply         3/1      JL087A           Aruba X372 54VDC 1050W PS                          CN90ABCDEF       04
+Power Supply         3/2      JL087A           Aruba X372 54VDC 1050W PS                          CN12345678       04
+Fan Tray             1/1      JL669A           X751 FB Fan Tray                                   CN90ABCDEF       1
+Fan Tray             1/2      JL669A           X751 FB Fan Tray                                   CN12345678       1
+Fan Tray             2/1      JL669A           X751 FB Fan Tray                                   CN90ABCDEF       1
+Fan Tray             2/2      JL669A           X751 FB Fan Tray                                   CN12345678       1
+Fan Tray             3/1      JL669A           X751 FB Fan Tray                                   CN90ABCDEF       1
+Fan Tray             3/2      JL669A           X751 FB Fan Tray                                   CN12345678       1
+Transceiver          1/1/49   J9150D           10G-SR / 10G SFP+ SR                               CN90ABCDEF       1990-4635
+Transceiver          1/1/51   R0M46A           50G-DAC0.65 / 50G SFP56 0.65m DAC                  CN12345678       8121-1713
+Transceiver          1/1/52   R0M46A           50G-DAC0.65 / 50G SFP56 0.65m DAC                  CN90ABCDEF       8121-1713
+Transceiver          2/1/51   R0M46A           50G-DAC0.65 / 50G SFP56 0.65m DAC                  CN12345678       8121-1713
+Transceiver          2/1/52   R0M46A           50G-DAC0.65 / 50G SFP56 0.65m DAC                  CN90ABCDEF       8121-1713
+Transceiver          3/1/49   J9150D           10G-SR / 10G SFP+ SR                               CN12345678       1990-4634
+Transceiver          3/1/51   R0M46A           50G-DAC0.65 / 50G SFP56 0.65m DAC                  CN90ABCDEF       8121-1713
+Transceiver          3/1/52   R0M46A           50G-DAC0.65 / 50G SFP56 0.65m DAC                  CN12345678       8121-1713
